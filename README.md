@@ -1,4 +1,3 @@
-Laevos is a fukin cunt
 
 ========================================
 Brain Damage API - BDAPI - Version 0.6.0
